@@ -4,7 +4,7 @@ import  CardComponent from '../../components/Card-Component'
 function AboutPage({navigation}){
     return(
         <View>
-          <CardComponent></CardComponent>
+          <Text>Soy AboutPage</Text>
         </View>
     )
 }

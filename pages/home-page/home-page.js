@@ -7,7 +7,6 @@ function HomePage({navigation}){
         <View>
             <Text>Soy home Page</Text>
             <CardComponent></CardComponent>
-            <CardComponent></CardComponent>
             <Button title="ir a contact" onPress={() => navigation.navigate('Contact')}></Button>
         </View>
     )
